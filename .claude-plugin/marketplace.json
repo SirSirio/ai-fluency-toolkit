@@ -1,0 +1,18 @@
+{
+  "name": "sirio-tools",
+  "description": "Practical tools by Sirio Feltrin. Starts with the AI Fluency toolkit.",
+  "owner": {
+    "name": "Sirio Feltrin",
+    "url": "https://sirsirio.github.io/MyPortfolio/"
+  },
+  "plugins": [
+    {
+      "name": "ai-fluency",
+      "source": "./",
+      "description": "Plan a task at three depths, and grade a prompt on the 4Ds before you send it.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["ai-fluency", "prompting", "4d-framework"]
+    }
+  ]
+}

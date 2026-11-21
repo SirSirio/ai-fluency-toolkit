@@ -1,0 +1,14 @@
+{
+  "name": "ai-fluency",
+  "displayName": "AI Fluency toolkit",
+  "version": "1.0.0",
+  "description": "Two skills built on the AI Fluency 4D framework (Delegation, Description, Discernment, Diligence): fluency-levels plans a task at three depths before doing it; prompt-4d-review grades and improves a prompt before you send it.",
+  "author": {
+    "name": "Sirio Feltrin",
+    "url": "https://sirsirio.github.io/MyPortfolio/"
+  },
+  "homepage": "https://sirsirio.github.io/MyPortfolio/ai.html",
+  "repository": "https://github.com/SirSirio/ai-fluency-toolkit",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": ["ai-fluency", "4d-framework", "prompting", "prompt-review", "planning", "skills"]
+}
